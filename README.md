@@ -4,6 +4,8 @@ Pizza Bliss – The Ultimate Pizza Ordering Experience 🍕✨
 Overview:
 Pizza Bliss is a sleek and user-friendly online pizza ordering platform designed for a smooth and enjoyable experience. With a simple and visually appealing interface, customers can easily customize and order their favorite pizzas in just a few clicks.
 
+![Project Execution](Execution/Overview.png)
+
 🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨
 
 Key Features & Interface Design
@@ -23,6 +25,16 @@ Design Aesthetic:
 🍕 Color Scheme: A warm palette of reds, yellows, and deep browns to reflect a fresh, baked feel.
 📱 Responsive Design: Fully optimized for mobile and desktop for seamless ordering.
 ⚡ Fast & Smooth Navigation: Minimal clicks to complete an order for a hassle-free experience.
+
+![Project Execution](Execution/CartOverView.png)
+
+![Project Execution](Execution/FoodOverview.png)
+
+![Project Execution](Execution/Order.png)
+
+![Project Execution](Execution/Checkout.png)
+
+![Project Execution](Execution/DropDown.png)
 
 💻💻💻💻💻tools used💻💻💻💻💻 :
 ReactJS – The core JavaScript library for building user interfaces.
