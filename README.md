@@ -4,7 +4,7 @@ Pizza Bliss – The Ultimate Pizza Ordering Experience 🍕✨
 Overview:
 Pizza Bliss is a sleek and user-friendly online pizza ordering platform designed for a smooth and enjoyable experience. With a simple and visually appealing interface, customers can easily customize and order their favorite pizzas in just a few clicks.
 
-![Project Execution](Execution/Overview.png)
+![Project Execution](src/Execution/Overview.png)
 
 🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨
 
