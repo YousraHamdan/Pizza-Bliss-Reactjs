@@ -26,9 +26,14 @@ Design Aesthetic:
 📱 Responsive Design: Fully optimized for mobile and desktop for seamless ordering.
 ⚡ Fast & Smooth Navigation: Minimal clicks to complete an order for a hassle-free experience.
 
-![Project Execution](src/Execution/CartOverView.png)
 
 ![Project Execution](src/Execution/FoodOverview.png)
+
+![Project Execution](src/Execution/AdditionalsOverView.png)
+
+![Project Execution](src/Execution/CartOverView.png)
+
+![Project Execution](src/Execution/Additionals.png)
 
 ![Project Execution](src/Execution/Order.png)
 
