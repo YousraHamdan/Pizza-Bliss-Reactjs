@@ -35,7 +35,6 @@ Design Aesthetic:
 
 ![Project Execution](src/Execution/Additionals.png)
 
-![Project Execution](src/Execution/Order.png)
 
 ![Project Execution](src/Execution/Checkout.png)
 
