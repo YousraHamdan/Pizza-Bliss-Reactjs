@@ -1,3 +1,8 @@
+⚠️⚠️⚠️⚠️⚠️⚠️ to run the repo run the following comands in ur terminal: ⚠️⚠️⚠️⚠️⚠️⚠️
+npm install 
+$env:NODE_OPTIONS="--openssl-legacy-provider"
+npm start
+
 🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨🍕✨
 
 Pizza Bliss – The Ultimate Pizza Ordering Experience 🍕✨
@@ -51,8 +56,5 @@ redux-thunk – A middleware that allows action creators to return functions ins
 redux-logger – A middleware for logging Redux state changes, useful for debugging and development.
 CSS – The stylesheet language used to style your React components and overall app.
 
-⚠️⚠️⚠️⚠️⚠️⚠️ to run the repo run the following comands in ur terminal: ⚠️⚠️⚠️⚠️⚠️⚠️
-npm install 
-$env:NODE_OPTIONS="--openssl-legacy-provider"
-npm start
+
 
